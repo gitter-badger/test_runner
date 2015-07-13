@@ -1,5 +1,7 @@
 ####Test runner:
 
+[![Join the chat at https://gitter.im/ifjorissen/test_runner](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ifjorissen/test_runner?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 * sanity.py: tiny utilitity lib
 * main.py: student submitted code
 * ta_main.py: TA solution to the hw problem in main.py
